@@ -1,3 +1,9 @@
+ivozprovider-asterisk-sounds (20.8~2.8.1) UNRELEASED; urgency=medium
+
+  * Version change to 20.8.1
+
+ -- PowerPBX <devops@powerpbx.org>  Tue, 01 Jan 2019 18:41:15 -0800
+
 ivozprovider-asterisk-sounds (2.8~2.8.1) UNRELEASED; urgency=medium
 
   * Version bump to 2.8.1
