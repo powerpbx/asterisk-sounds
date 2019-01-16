@@ -1,6 +1,7 @@
-ivozprovider-asterisk-sounds (20.8~2.8.1) UNRELEASED; urgency=medium
+ivozprovider-asterisk-sounds (20.8~20.8.2) UNRELEASED; urgency=medium
 
-  * Version change to 20.8.1
+  * Version change to 20.8.2
+  * Added echo test sounds
 
  -- PowerPBX <devops@powerpbx.org>  Tue, 01 Jan 2019 18:41:15 -0800
 
