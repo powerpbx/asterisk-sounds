@@ -1,15 +1,27 @@
-ivozprovider-asterisk-sounds (20.8~20.8.2) UNRELEASED; urgency=medium
+ivozprovider-asterisk-sounds (2.9~2.0.1) stable; urgency=medium
 
-  * Version change to 20.8.2
+  * Version bump to 2.0.1
+
+ -- PowerPBX <devops@powerpbx.org>  Tue, 01 Jan 2019 18:41:15 -0800
+
+ivozprovider-asterisk-sounds (2.9~2.0.0) stable; urgency=medium
+
+  * Version bump to 2.9.0
+
+ -- Irontec IvozProvider Team <ivozprovider@irontec.com>  Wed, 26 Dec 2018 11:05:29 +0100
+
+ivozprovider-asterisk-sounds (2.8~2.8.2) stable; urgency=medium
+
+  * Version change to 2.8.2
   * Added echo test sounds
 
  -- PowerPBX <devops@powerpbx.org>  Tue, 01 Jan 2019 18:41:15 -0800
 
-ivozprovider-asterisk-sounds (2.8~2.8.1) UNRELEASED; urgency=medium
+ivozprovider-asterisk-sounds (2.8~2.8.1) stable; urgency=medium
 
   * Version bump to 2.8.1
 
- -- Irontec IvozProvider Team <ivozprovider@irontec.com>  Wed, 28 Nov 2018 16:03:31 +0100
+ -- Irontec IvozProvider Team <ivozprovider@irontec.com>  Wed, 26 Dec 2018 11:05:12 +0100
 
 ivozprovider-asterisk-sounds (2.8~2.8.0) stable; urgency=medium
 
