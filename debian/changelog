@@ -1,6 +1,6 @@
-ivozprovider-asterisk-sounds (2.9~2.0.1) stable; urgency=medium
+ivozprovider-asterisk-sounds (2.9~2.0.0-ppx1) stable; urgency=medium
 
-  * Version bump to 2.0.1
+  * Version change to ppx1
 
  -- PowerPBX <devops@powerpbx.org>  Tue, 01 Jan 2019 18:41:15 -0800
 
